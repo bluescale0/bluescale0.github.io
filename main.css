@@ -4,8 +4,10 @@ body {
   background-color: #101010;
   color: #efefef; 
 }
-.footer {
-  
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
 }
 
 
