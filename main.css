@@ -2,11 +2,10 @@ body {
   text-align: center;
   font-family: Courier-New, Monospace;
   background-color: #101010;
+  color: #efefef; 
 }
 .footer {
-  font-family: sans-serif;
+  font-family: Arial, Sans-Serif;
 }
-p2 {
-  color: #ff0000;
-}
+
 
