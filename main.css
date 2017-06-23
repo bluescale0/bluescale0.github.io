@@ -1,6 +1,9 @@
 body {
   text-align: center;
   font-family: Courier-New, Monospace;
-  color: #efefef
-  background-color: #101010
+  color: #efefef;
+  background-color: #101010;
+}
+.footer {
+  font-family: sans-serif;
 }
